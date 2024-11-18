@@ -9,7 +9,7 @@ public class defaultvalues {
         double d;
         char c1;
         boolean b1;
-        String strValue; // Instance variable
+        String strValue; 
         int[] a; // Array
     }
 
