@@ -9,8 +9,6 @@ public class ifelsestatement {
 		else {
 			System.out.println("odd numder");
 		}
-		
-		System.out.println(a);
 	}
 	
 }
